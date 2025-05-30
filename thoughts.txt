@@ -1,0 +1,15 @@
+1. How can structure be understood through frames
+Goal for this project:\
+    a. construct structural videos.
+    b. How will you construct structural videos?
+    c. There should be a system to judge and predict if the predicted frame is structurally sound\
+
+
+How brains works.
+    1. Light travels through to the brain as electric signals.
+    2. These then lit up different neurons based on different characteristics of the view.
+
+Why are dreams different than real world. 
+
+
+It is right now just predicting
